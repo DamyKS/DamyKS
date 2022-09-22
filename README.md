@@ -1,5 +1,5 @@
 ### Hello 👋 I'm Damian.   
-<br>🌱 I’m currently learning **Solidity** and *React* <br>💬 Ask me about *Smart Contracts*. 
+<br>🌱 I’m currently learning **Solidity** and **React** <br>💬 Ask me about **Smart Contracts**. 
 
 <br>📫 How to reach me: damianojeh@gmail.com
 
