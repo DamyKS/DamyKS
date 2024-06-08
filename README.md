@@ -1,5 +1,5 @@
 ### Hello 👋 I'm Damian.   
-🌱 I’m currently learning **Solidity** and **React** <br>💬 Ask me about **Smart Contracts**. <br>📫 How to reach me: damianojeh@gmail.com
+🌱 I’m currently learning **Django** <br>💬 Ask me about **Django RestFramework**. <br>📫 How to reach me: damianojeh@gmail.com
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076611390670 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-ojeh ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DamianOjeh?s=09) 
 
